@@ -1,0 +1,6 @@
+@digitaloceanApp_HostAddress = http://localhost:5078
+
+GET {{digitaloceanApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
